@@ -7,6 +7,7 @@
   <a href="https://github.com/diasrafael1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diasrafael1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasrafael1&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diasrafael1&theme=tokyonight" alt="mystreak"/>
 </div>
 <h3>Tecnologias que utilizo:</h3>
 <div style="display: inline_block"><br>
@@ -46,5 +47,5 @@
   <a href="https://www.linkedin.com/in/diasrafael1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/diasrafael1/diasrafael1/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://komarev.com/ghpvc/?username=diasrafael1&color=brightgreen" alt="watching_count" />
 </div>
