@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasrafael1&layout=compact&langs_count=6&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diasrafael1&theme=tokyonight" alt="mystreak"/>
 </div>
-<h3>Tecnologias que utilizo:</h3>
+<h3>Tecnologias que já utilizei:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
