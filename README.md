@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil 👋
 - Sou desenvolvedor de Software Fullstack com foco em ReactJS e NodeJS
 - Tenho 18 anos e moro em Feira de Santana - BA
-- Atualmente estou estudando NextJS
+- Atualmente estou estudando NextJS e React Native
 <div>
   <a href="https://github.com/diasrafael1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diasrafael1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
