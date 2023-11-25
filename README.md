@@ -1,8 +1,8 @@
 # Olá, me chamo Rafael! 🤙 
 ### Bem vindo ao meu perfil 👋
-- Sou desenvolvedor de Software Fullstack com foco em ReactJS e NodeJS
-- Tenho 18 anos e moro em Feira de Santana - BA
-- Atualmente estou estudando NextJS e React Native
+- Desenvolvedor Front-end na Adekz
+- Code Reviewer na [Cubos Academy](https://cubos.academy/)
+- Desenvolvedor de Software pela [Cubos Academy](https://cubos.academy/)
 <div>
   <a href="https://github.com/diasrafael1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diasrafael1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
