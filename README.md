@@ -1,7 +1,6 @@
 # Olá, me chamo Rafael! 🤙 
 ### Bem vindo ao meu perfil 👋
 - Desenvolvedor Front-end na Adekz
-- Code Reviewer na [Cubos Academy](https://cubos.academy/)
 - Desenvolvedor de Software pela [Cubos Academy](https://cubos.academy/)
 <div>
   <a href="https://github.com/diasrafael1"/>
